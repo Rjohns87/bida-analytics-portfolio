@@ -63,6 +63,3 @@ This project demonstrates skills in:
 
 My contributions included project framing, literature review development, data quality review, statistical interpretation, final report preparation, and development of the overall decision-support narrative.
 
-## Sanitization Note
-
-Only sanitized project materials are included in this repository. No confidential, private, or restricted information is included.
